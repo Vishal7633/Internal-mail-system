@@ -1,0 +1,6 @@
+{
+  "name": "InternalMail Swing & MySQL Studio",
+  "description": "Complete Internal Mail System built with Java Swing and MySQL JDBC, featuring an interactive Swing desktop simulator, full Java package source code (model, dao, database, ui, utils), MySQL schema, and IDE setup guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
